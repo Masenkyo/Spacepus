@@ -6,7 +6,7 @@ Ik heb deze game gemaakt in periode 4 van leerjaar 1 en het onderwerp was Expand
 
 
 
-Uitleg
+## Uitleg
 
 Er is een grote Spacepus dat aarde bedrijgt, dus je vecht tegen ze en je moet ervoor zorgen dat ze de aarde niet overnemen, of dat je geraakt word door 1 van de spacepus'!
 
